@@ -1,0 +1,27 @@
+[
+  {
+    "Código": 1001,
+    "Nombre": "Cartera",
+    "Color": "negro"
+  },
+  {
+    "Código": 1002,
+    "Nombre": "Bolso",
+    "Color": "blanco"
+  },
+  {
+    "Código": 1003,
+    "Nombre": "Maleta",
+    "Color": "azul"
+  },
+ {
+    "Código": 1004,
+    "Nombre": "Morral",
+    "Color": "marron"
+  },
+ {
+    "Código": 1005,
+    "Nombre": "Mochila",
+    "Color": "verde"
+  }
+]
