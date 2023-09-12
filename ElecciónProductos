@@ -1,26 +1,26 @@
 [
   {
-    "Código": 1001,
+    "Código": 1,
     "Nombre": "Cartera",
     "Color": "negro"
   },
   {
-    "Código": 1002,
+    "Código": 2,
     "Nombre": "Bolso",
     "Color": "blanco"
   },
   {
-    "Código": 1003,
+    "Código": 3,
     "Nombre": "Maleta",
     "Color": "azul"
   },
  {
-    "Código": 1004,
+    "Código": 4,
     "Nombre": "Morral",
     "Color": "marron"
   },
  {
-    "Código": 1005,
+    "Código": 5,
     "Nombre": "Mochila",
     "Color": "verde"
   }
