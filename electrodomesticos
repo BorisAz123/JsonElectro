@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lavadora",
+    "precio": 800
+  },
+  {
+    "id": 2,
+    "nombre": "Hervidora",
+    "precio": 120
+  },
+  {
+    "id": 3,
+    "nombre": "Plancha",
+    "precio": 50
+  }
+]
