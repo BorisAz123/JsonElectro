@@ -2,31 +2,25 @@
   {
     "Código": 1,
     "Nombre": "Cartera",
-    "Color": "negro",
-    "url": "http://imgfz.com/i/UIlEAP2.png "
-  },
+    "Color": "negro"
   {
     "Código": 2,
     "Nombre": "Bolso",
-    "Color": "blanco",
-    "url": "http://imgfz.com/i/UIlEAP2.png "
+    "Color": "blanco"
   },
   {
     "Código": 3,
     "Nombre": "Maleta",
-    "Color": "azul",
-    "url": "http://imgfz.com/i/UIlEAP2.png "
+    "Color": "azul"
   },
  {
     "Código": 4,
     "Nombre": "Morral",
-    "Color": "marron",
-    "url": "http://imgfz.com/i/UIlEAP2.png "
+    "Color": "marron"
   },
  {
     "Código": 5,
     "Nombre": "Mochila",
-    "Color": "verde",
-    "url": "http://imgfz.com/i/UIlEAP2.png "
+    "Color": "verde"
   }
 ]
