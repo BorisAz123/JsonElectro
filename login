@@ -1,12 +1,12 @@
 [
   {
-     "username" : "boris123"
-      "password": "boriaz19"
+     "email" : "boris123@gmail.com"
+      "pin": "1234"
   },
 
   {
-      "username" : "boris321"
-      "password": "boriaz20"
+      "email" : "boris321@gmail.com"
+      "pin"   : "4321"
   }
 
 
